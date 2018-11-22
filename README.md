@@ -2,6 +2,8 @@
 
 Trivia Game
 
+https://lagilles.github.io/TriviaGame
+
 A fun trivia game testing your knowledge of beloved video game company, Nintendo! Utilizes Javascript timers and JQuery to make HTML and CSS dynamic.
 
 - A trivia game that shows only one question until the player answers it or their time runs out.
