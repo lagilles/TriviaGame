@@ -140,7 +140,7 @@ $(document).ready(function() {
     unanswered++;
     var timeOutText = "<p class='timeOutText text-center'>TIME'S UP!</p>";
     var imgHTML =
-      "<img class='center-block imgWrong' src='assets/images/x.png'>";
+      "<img class='center-block imgWrong' src='assets/images/clock.png'>";
     gameHTML = timeOutText + imgHTML;
     $(".mainArea").html(gameHTML);
     setTimeout(nextDisplay, 3000);
